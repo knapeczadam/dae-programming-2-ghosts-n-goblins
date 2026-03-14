@@ -41,10 +41,3 @@ If you’re exploring Programming 2 projects: **study, tinker, and enjoy a class
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, learn, or fork for educational purposes.
-
----
-
-*Made with C++, curiosity, and arcade nostalgia 🎮  
-— Ádám*
-
-
